@@ -21,4 +21,4 @@ Se utilizó **Java**
 Guardar en la **nube** la practica para envitar el riesgo de perderla y organizar la información
 
 # Imagen
-![Imagen del listado](https://myoctocat.com/assets/images/base-octocat.svg)
+![Imagen del repositorio](https://user-images.githubusercontent.com/98461978/159674048-694e6294-2d76-4eec-904d-596485526480.png)

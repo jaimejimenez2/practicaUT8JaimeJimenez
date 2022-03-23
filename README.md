@@ -2,8 +2,7 @@
 **Jaime Jiménez Portero**
 
 # Biografía
-Tengo *19 años* y estoy estudiando **programación**
-Hice bachiller de ciencias tecnologicas y me metí a estudiar el módulo
+Tengo *19 años* y estoy estudiando **programación**. Hice bachiller de ciencias tecnologicas y me metí a estudiar el módulo
 
 # Descripción
 La aplicación sirve para guardar , crear ordenadores dependdiento del tipo que sea si portatil, sobremesa o portatil cada uno con sus caracterísiticas personales

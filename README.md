@@ -6,7 +6,7 @@ Tengo *19 años* y estoy estudiando **programación**
 Hice bachiller de ciencias tecnologicas y me metí a estudiar el módulo
 
 # Descripción
-La apliccación es una maquetación de unos temas para la asignatura de Diseño de Interfaces***
+La aplicación sirve para guardar , crear ordenadores dependdiento del tipo que sea si portatil, sobremesa o portatil cada uno con sus caracterísiticas personales
 
 # Tecnologías implementadas
 Se utilizó **Java**
@@ -14,5 +14,11 @@ Se utilizó **Java**
 # Listado
 **1** - Main
 **2** - Ordenadores
-**1** - Sobremesa
-**1** - 
+**3** - Sobremesa
+**4** - Portatil
+
+# Finalidad del repositorio
+Guardar en la **nube** la practica para envitar el riesgo de perderla y organizar la información
+
+# Imagen
+![Imagen del listado](https://myoctocat.com/assets/images/base-octocat.svg)

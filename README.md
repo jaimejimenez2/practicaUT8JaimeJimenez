@@ -12,4 +12,7 @@ La apliccación es una maquetación de unos temas para la asignatura de Diseño 
 Se utilizó **Java**
 
 # Listado
+**1** - Main
+**2** - Ordenadores
+**1** - Sobremesa
 **1** - 

@@ -1,6 +1,6 @@
 # Autor 
-** Jaime Jiménez Portero **
+-- Jaime Jiménez Portero --
 
 # Biografía
-** Tengo *19 años* y estoy estudiando programación **
+-- Tengo *19 años* y estoy estudiando programación --
 

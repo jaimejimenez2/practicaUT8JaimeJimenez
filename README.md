@@ -2,11 +2,14 @@
 **Jaime Jiménez Portero**
 
 # Biografía
-**Tengo *19 años* y estoy estudiando programación**
+Tengo *19 años* y estoy estudiando **programación**
+Hice bachiller de ciencias tecnologicas y me metí a estudiar el módulo
 
 # Descripción
-***La apliccación es una maquetación de unos temas para la asignatura de Diseño de Interfaces***
+La apliccación es una maquetación de unos temas para la asignatura de Diseño de Interfaces***
 
 # Tecnologías implementadas
-Se utilizó **HTML** , *CSS* y ***JavaScript***
+Se utilizó **Java**
 
+# Listado
+**1** - 
